@@ -1,12 +1,9 @@
-# remeklesz
+# Remeklesz
 
-# Első
-## Második
- 
-[Zöld weblap](lehoczkipatricia)
- 
-* egy
-* kettő
-* három
-* négy
-* öt
+## Együttműködők
+
+* Nagy Barna
+* Kis Irén
+* Közepes Béla
+
+[Github](https://github.com)
